@@ -1,0 +1,2 @@
+# rubynclass
+class
